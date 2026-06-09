@@ -1,0 +1,53 @@
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.exe
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.deps.json
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.runtimeconfig.json
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.pdb
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.Form1.resources
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\Employee.A4622930.Up2Date
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\refint\EmployeeManagementSystem.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.pdb
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\ref\EmployeeManagementSystem.dll
+D:\sem 4\c#.net\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.practice.resources
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.exe
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.deps.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.runtimeconfig.json
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\EmployeeManagementSystem.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.csproj.AssemblyReference.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.Form1.resources
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.practice.resources
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\Employee.A4622930.Up2Date
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\refint\EmployeeManagementSystem.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.pdb
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\ref\EmployeeManagementSystem.dll
+D:\EmployeeManagementSystem\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0-windows\EmployeeManagementSystem.Form2.resources
